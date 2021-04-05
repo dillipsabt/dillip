@@ -61,3 +61,6 @@ h2:hover{
 #special:hover{
     color: cyan;
 }
+#special:first-letter:hover{
+    color: cyan;
+}
