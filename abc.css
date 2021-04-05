@@ -1,0 +1,34 @@
+body{
+    background-image:url("cka.jpg");
+    background-size: cover;
+}
+h1{
+    color:darkorange;
+}
+h2{
+    color: hotpink;
+}
+a{
+    color: chartreuse;
+}
+p{
+    color: cyan;
+}
+ul{
+    color: cyan;
+}
+form{
+    color: rgb(28, 255, 20);
+}
+#specialized{
+   color: blueviolet;
+}
+#specializedp{
+    color: chartreuse;
+}
+#specializedtag{
+    color:darkgreen;
+}
+input[type="text"]{
+    color: crimson;
+}
